@@ -1,0 +1,13 @@
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\bin\Debug\netcoreapp3.1\TaxCalc.exe
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\bin\Debug\netcoreapp3.1\TaxCalc.deps.json
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\bin\Debug\netcoreapp3.1\TaxCalc.runtimeconfig.json
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\bin\Debug\netcoreapp3.1\TaxCalc.runtimeconfig.dev.json
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\bin\Debug\netcoreapp3.1\TaxCalc.dll
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\bin\Debug\netcoreapp3.1\TaxCalc.pdb
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.csprojAssemblyReference.cache
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.AssemblyInfoInputs.cache
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.AssemblyInfo.cs
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.dll
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.pdb
+C:\Users\mikha\source\repos\TaxCalc\TaxCalc\obj\Debug\netcoreapp3.1\TaxCalc.genruntimeconfig.cache
